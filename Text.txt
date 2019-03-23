@@ -1,7 +1,4 @@
 This is a test text file for menus
 hiiiii
-<<<<<<< HEAD
 dfgj
-=======
 caoimhe m
->>>>>>> 590b36b867cc792fff21d57cd82c965a12769225
