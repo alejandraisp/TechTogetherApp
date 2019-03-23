@@ -1,3 +1,10 @@
 This is a test text file for menus
+<<<<<<< HEAD
 hiiii
 dfjhgjhg
+=======
+hiiiii
+dfjhgjhg
+dfgj
+caoimhe m
+>>>>>>> 8508559f236752783b745f93bf6bca392bc496ee
