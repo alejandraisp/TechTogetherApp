@@ -1,0 +1,30 @@
+"Helping Hands" is an app that provides a matching service for emergency accommodation following a natural disaster. 
+Through the app, those who have spare room can volunteer space in their home, while those in need of temporary shelter can 
+search for a host.
+
+
+How "Helping Hands" works (at present):
+
+" Upon opening the app, the user selects whether they "Need a hand" (are seeking shelter), or want to "Lend a hand" 
+(volunteer space in their home).
+
+" If the user selects "Need a hand": o The user enters the amount of people in their party that require accommodation, 
+and whether or not they require food. o The user then enters their phone number so that they can be contacted. " 
+If the user selects "Lend a hand": o The user enters the amount of people that they can accommodate, and whether or 
+not they can provide food o The user enters their phone number so that they can be contacted
+
+We hope that the app can be further developed to include an algorithm that will provide them with a list of other users that 
+match their criteria. The user can then contact users from this list and can begin to arrange accommodation. After two previous
+attempts at different projects that were unfortunately unsuccessful, the late start on this project meant that we could not
+implement this feature in the given timeframe.
+
+Moving forward with this app, we would hope to implement some additional features, such as a location option, 
+and additional filters such as internet and laundry facilities available at the home. 
+The algorithm would match the individual in need to the home which best suits their needs. 
+We also hope to include the option of signing in with Google, so that the user's email address can be included in their 
+information, or a messaging service within the app itself to streamline the process.
+
+We would also look to promote the app in areas that are prone to natural disasters, perhaps through collaborations with stores
+that sell emergency supplies and local emergency services. We would also seek to work with life, health, 
+and home insurance companies to offer a discount as an incentive to those who utilize the app.
+
